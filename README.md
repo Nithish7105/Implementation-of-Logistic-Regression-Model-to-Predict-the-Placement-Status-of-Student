@@ -19,8 +19,8 @@ To write a program to implement the the Logistic Regression Model to Predict the
 ```
 /*
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: Rakshitha K
-RegisterNumber: 212223110039 
+Developed by: NITHISH KUMAR
+RegisterNumber: 212223040134 
 */
 ```
 ~~~
@@ -51,17 +51,8 @@ lr.predict([[1,80,1,90,1,1,90,1,0,85,1,85]])
 ~~~
 
 ## Output:
-![image](https://github.com/RakshithaK11/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139336455/32d647e7-f70f-4fba-a8e6-8b16201c475c)
-![image](https://github.com/RakshithaK11/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139336455/2f62e9d3-7684-44e8-a969-4eddcbe808d3)
-![image](https://github.com/RakshithaK11/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139336455/e2633c37-45a7-4b28-83f1-77ab15765e1e)
-![image](https://github.com/RakshithaK11/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139336455/38361f24-94ec-42de-aa6e-14d67d3304ad)
-![image](https://github.com/RakshithaK11/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139336455/89fee1bc-aabc-4868-b12e-7019d1f117da)
-![image](https://github.com/RakshithaK11/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139336455/41b02477-baa5-487c-9c06-264d895097da)
-![image](https://github.com/RakshithaK11/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139336455/637b03a9-3ad4-4390-8dc4-7ccd82119d9f)
-![image](https://github.com/RakshithaK11/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139336455/42e96505-13fb-457d-9d81-d76d1486d5a9)
-![image](https://github.com/RakshithaK11/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139336455/5e57cad1-6a4d-409b-a63d-a71657d5d2f2)
-![image](https://github.com/RakshithaK11/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139336455/75502ec7-8b17-40dd-a575-db8c6d0e6e97)
-![image](https://github.com/RakshithaK11/Implementation-of-Logistic-Regression-Model-to-Predict-the-Placement-Status-of-Student/assets/139336455/9baf5590-6c48-4a0f-8162-111459350534)
+![image](https://github.com/user-attachments/assets/5a915b37-b7b0-4122-a516-0731f4e09251)
+![image](https://github.com/user-attachments/assets/97e7b035-8e97-441e-a959-433f0e4df888)
 
 
 ## Result:
